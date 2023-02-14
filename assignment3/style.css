@@ -108,7 +108,7 @@ body {
   border-bottom: 1px solid #ccc;
 }
 
-/* style the education section */
+
 .education {
   margin-top: 20px;
 }
@@ -129,6 +129,7 @@ body {
   padding: 10px;
   text-align: left;
 }
+
 
 .education th {
   background-color: #333;
